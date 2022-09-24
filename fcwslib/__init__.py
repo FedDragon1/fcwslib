@@ -2,7 +2,6 @@ import os
 import time
 import uuid
 import json
-import fcwslib
 import asyncio
 
 import websockets
